@@ -1,0 +1,34 @@
+footer {
+  background-color: #222;
+  color: #fff;
+  padding: 20px 0;
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+.footer-enlaces h3 {
+  margin-bottom: 15px;
+  font-size: 18px;
+  color: #f1f1f1;
+}
+
+.footer-enlaces ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.footer-enlaces ul li {
+  display: inline-block;
+  margin: 0 10px;
+}
+
+.footer-enlaces ul li a {
+  color: #fff;
+  text-decoration: none;
+  transition: color 0.3s;
+}
+
+.footer-enlaces ul li a:hover {
+  color: #1e90ff;
+}
